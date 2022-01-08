@@ -1,0 +1,20 @@
+body {
+    background: gainsboro;
+    font-family: "Nunito", sans-serif;
+}
+ 
+  
+  nav {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6em;
+    /* text-transform: uppercase; */
+    text-align: center;
+    padding: 1.4em 0; 
+    /* border-bottom: 2px solid white; */
+  }
+
+  footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-color: #A9A9A9;
+  }
